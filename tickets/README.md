@@ -2,7 +2,7 @@
 
 Um das Ticket Template zu verwenden, befolge diese Schritte:
 
-1. Melde dich auf dem Dashboard unter [https://dashboard.smarterbot.de/](https://dashboard.ai-creator.info/) an.
+1. Melde dich auf dem Dashboard unter [https://dashboard.smarterbot.de/](https://dashboard.smarterbot.de/) an.
 
 2. Wähle unter **Manage Guilds** im linken Menü den Server aus, den du verwalten möchtest.
 
